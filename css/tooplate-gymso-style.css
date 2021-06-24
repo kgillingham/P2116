@@ -131,6 +131,12 @@ https://www.tooplate.com/view/2119-gymso-fitness
     padding: 7rem 0;
   }
 
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
   /* BUTTON */
 
